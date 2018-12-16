@@ -13,3 +13,5 @@ git branch -v //查看分支(内容要详细一些)
 git  merge  <分支名> //合并分支
 git checkout  <分支名> //切换分支
 git checkout -b <分支名> //切换分支
+git diff //查看冲突,解决冲突后，再add 、commit 时commit 后不能跟具体文件，否则报fatal: cannot do a partial commit during a merge.
+
