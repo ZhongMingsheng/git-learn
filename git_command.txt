@@ -11,3 +11,5 @@ git branch <branckName> //创建分支
 git branch //查看分支
 git branch -v //查看分支(内容要详细一些)
 git  merge  <分支名> //合并分支
+git checkout  <分支名> //切换分支
+git checkout -b <分支名> //切换分支
